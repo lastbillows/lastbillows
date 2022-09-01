@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+正在努力学习计算机知识，想把自己的学习过程和成果发到网站上，用来记录
 <!--
 **lastbillows/lastbillows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
